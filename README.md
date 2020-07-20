@@ -43,6 +43,7 @@
 11. `.pop()` - Use the pop method to remove and console.log the last item in the array carsInReverse.
 12. `.shift()` - Use the shift method to remove and console.log the first item in the array carsInReverse.
 13. `.unshift()` - Use the unshift method to add a new type of car to the array carsInReverse.
+
 14 `.forEach()` - Create an array called numbers with the following items: 23, 45, 0, 2 Write code that will add 2 to each item in the array numbers.
    * `.forEach()` requires a function to be passed into it as its first argument. Build a function that will add 2 and then use `.forEach()` to pass each number into your freshly built function. `const numbers = [23, 45, 0 , 2, 8, 44, 100, 1, 3, 91, 34]`
 
